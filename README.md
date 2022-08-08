@@ -1,3 +1,7 @@
+# Welcome to my portfolio!
+
+Feel free to reuse and recycle my code for your portfolio/website!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
